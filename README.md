@@ -2,7 +2,7 @@ Kickstarting with Excel
 
 ### Overview of Project
 For this assignment, we have been hired by Loiuse to determine the success of her funding campaigns for her play, Fever. 
-Using the Kickstarter data provided, the goal is to use Excel tools to determine the outcomes of the campaigns and if there is any signifcance based on their goals and launch dates. 
+Using the Kickstarter data provided, the goal is to use Excel tools to determine the outcomes of the campaigns and if there is any significance based on their goals and launch dates. 
 
 ### Purpose
 The purpose of this assignment to use the tools or Excel learned in Module 1 to assist Louise determining the success of her campaigns based on launch dates and her goals.
@@ -10,7 +10,7 @@ The purpose of this assignment to use the tools or Excel learned in Module 1 to 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-My anaylsis of the Outcomes Based on Launch Date started with creating a "year" column from the "date created conversion" column. Once this was created, I created a pivot table named "Theater Outcomes by Launch Date." The pivot table provided data on the Launch Date, Outcomes that were Successful, Failed, and Canceled. The pivot table was filtered by the Parent Category "theater", which the category that Loiuse was most interested in. The last for this analysis, was to create a line graph extracted from the pivot chart to have a more thorough visual of the "plays" campaigns by outcome and month.
+My analysis of the Outcomes Based on Launch Date started with creating a "year" column from the "date created conversion" column. Once this was created, I created a pivot table named "Theater Outcomes by Launch Date." The pivot table provided data on the Launch Date, Outcomes that were Successful, Failed, and Canceled. The pivot table was filtered by the Parent Category "theater", which the category that Louise was most interested in. The last for this analysis, was to create a line graph extracted from the pivot chart to have a more thorough visual of the "plays" campaigns by outcome and month.
 
  Conclusions:
 	1. Based on the pivot table, there were a total of 1369 outcomes.
@@ -38,11 +38,11 @@ Conclusions:
 
 - What can you conclude about the Outcomes based on Goals?
 	1. There was 14 failed outcomes and 2 successful outcomes with a goal above $50,000. Louise would want to further analyze to see what made the majority of these campaigns not successful.
-	2. The most successful and failed campaigns had a goal between $1000-$4999. Futher analysis can determine what parent categories, launch date, or subcategories resulted in a successful outcome. 
+	2. The most successful and failed campaigns had a goal between $1000-$4999. Further analysis can determine what parent categories, launch date, or subcategories resulted in a successful outcome. 
 
 - What are some limitations of this dataset?
 	1. There is no analysis on the time frame of each campaigns. Were there campaigns that lasted a couple of weeks or the whole month.
-	2. Of the failed campaigns, it would be effective to know how close the they came from being successful. Or would a certain campaign be successful if the goals changed.
+	2. Of the failed campaigns, it would be effective to know how close they came from being successful. Or would a certain campaign be successful if the goals changed.
 
 - What are some other possible tables and/or graphs that we could create?
-	1. I would create a table to show how long each campaign lasted. This could help determine if successful and failed campaigns were ran a certain time were more likely to be successful.
+	1. I would create a table to show how long each campaign lasted. This could help determine if successful and failed campaigns were run a certain time were more likely to be successful.
