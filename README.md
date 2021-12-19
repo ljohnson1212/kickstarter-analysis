@@ -12,8 +12,6 @@ The purpose of this assignment to use the tools or Excel learned in Module 1 to 
 ### Analysis of Outcomes Based on Launch Date
 My anaylsis of the Outcomes Based on Launch Date started with creating a "year" column from the "date created conversion" column. Once this was created, I created a pivot table named "Theater Outcomes by Launch Date." The pivot table provided data on the Launch Date, Outcomes that were Successful, Failed, and Canceled. The pivot table was filtered by the Parent Category "theater", which the category that Loiuse was most interested in. The last for this analysis, was to create a line graph extracted from the pivot chart to have a more thorough visual of the "plays" campaigns by outcome and month.
 
-[Kickstarter Challenge](/Kickstarter_Challenge.xlsx)
-
  Conclusions:
 	1. Based on the pivot table, there were a total of 1369 outcomes.
 	2. May and June had the most success campaigns with 111 and 100, respectfully.
@@ -22,8 +20,6 @@ My anaylsis of the Outcomes Based on Launch Date started with creating a "year" 
 
 ### Analysis of Outcomes Based on Goals
 My analysis of the Outcomes Based on Goals started with creating a new worksheet named "Outcomes Based on Goals". The worksheet was made to populate the number of Successful, Failed and Canceled campaigns based on the goals accomplished for each one. Next, a series of formulas were entered into the function section to populate each column. 
-
-[Deliverable 2](/Deliverable 2.xlsx)
 
 Conclusions:
 	1. The most Successful campaigns were between $1,000 and $4,999.
