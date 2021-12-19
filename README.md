@@ -41,7 +41,7 @@ Conclusions:
 	2. The most successful and failed campaigns had a goal between $1000-$4999. Further analysis can determine what parent categories, launch date, or subcategories resulted in a successful outcome. 
 
 - What are some limitations of this dataset?
-	1. There is no analysis on the time frame of each campaigns. Were there campaigns that lasted a couple of weeks or the whole month.
+	1. There is no analysis on the time frame of each campaign. Were there campaigns that lasted a couple of weeks or the whole month.
 	2. Of the failed campaigns, it would be effective to know how close they came from being successful. Or would a certain campaign be successful if the goals changed.
 
 - What are some other possible tables and/or graphs that we could create?
