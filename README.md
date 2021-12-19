@@ -1,7 +1,7 @@
 Kickstarting with Excel
 
 ### Overview of Project
-For this assignment, we have been hired by Loiuse to determine the success of her funding campaigns for her play, Fever. 
+For this assignment, we have been hired by Louise to determine the success of her funding campaigns for her play, Fever. 
 Using the Kickstarter data provided, the goal is to use Excel tools to determine the outcomes of the campaigns and if there is any significance based on their goals and launch dates. 
 
 ### Purpose
