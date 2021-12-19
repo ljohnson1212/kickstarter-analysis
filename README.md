@@ -1,11 +1,11 @@
 Kickstarting with Excel
 
 ### Overview of Project
-	For this assignment, we have been hired by Loiuse to determine the success of her funding campaigns for her play, Fever. 
-	Using the Kickstarter data provided, the goal is to use Excel tools to determine the outcomes of the campaigns and if there is any signifcance based on their goals and launch dates. 
+For this assignment, we have been hired by Loiuse to determine the success of her funding campaigns for her play, Fever. 
+Using the Kickstarter data provided, the goal is to use Excel tools to determine the outcomes of the campaigns and if there is any signifcance based on their goals and launch dates. 
 
 ### Purpose
-	The purpose of this assignment to use the tools or Excel learned in Module 1 to assist Louise determining the success of her campaigns based on launch dates and her goals.
+The purpose of this assignment to use the tools or Excel learned in Module 1 to assist Louise determining the success of her campaigns based on launch dates and her goals.
 
 ## Analysis and Challenges
 
@@ -13,6 +13,8 @@ Kickstarting with Excel
 My anaylsis of the Outcomes Based on Launch Date started with creating a "year" column from the "date created conversion" column. Once this was created, I created a pivot table named "Theater Outcomes by Launch Date." The pivot table provided data on the Launch Date, Outcomes that were Successful, Failed, and Canceled. The pivot table was filtered by the Parent Category "theater", which the category that Loiuse was most interested in. The last for this analysis, was to create a line graph extracted from the pivot chart to have a more thorough visual of the "plays" campaigns by outcome and month.
 
 [Resources Folder](/Resources)
+[google](https://www.google.com/)
+<br>
 
  Conclusions:
 	1. Based on the pivot table, there were a total of 1369 outcomes.
