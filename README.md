@@ -12,6 +12,8 @@ The purpose of this assignment to use the tools or Excel learned in Module 1 to 
 ### Analysis of Outcomes Based on Launch Date
 My analysis of the Outcomes Based on Launch Date started with creating a "year" column from the "date created conversion" column. Once this was created, I created a pivot table named "Theater Outcomes by Launch Date." The pivot table provided data on the Launch Date, Outcomes that were Successful, Failed, and Canceled. The pivot table was filtered by the Parent Category "theater", which the category that Louise was most interested in. The last for this analysis, was to create a line graph extracted from the pivot chart to have a more thorough visual of the "plays" campaigns by outcome and month.
 
+[Outcomes Based on Launch Date](/kickstarter-analysis)
+
  Conclusions:
 	1. Based on the pivot table, there were a total of 1369 outcomes.
 	2. May and June had the most success campaigns with 111 and 100, respectfully.
